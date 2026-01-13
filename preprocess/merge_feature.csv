@@ -1,0 +1,143 @@
+,combination,num_rows
+0,"('electricity', 'chilledwater')",541
+1,"('electricity', 'numberoffloors')",437
+2,"('electricity', 'steam')",351
+3,"('chilledwater', 'steam')",287
+4,"('electricity', 'chilledwater', 'steam')",279
+5,"('electricity', 'hotwater')",183
+6,"('electricity', 'gas')",171
+7,"('hotwater', 'chilledwater')",166
+8,"('electricity', 'hotwater', 'chilledwater')",164
+9,"('gas', 'numberoffloors')",137
+10,"('electricity', 'gas', 'numberoffloors')",135
+11,"('electricity', 'water')",124
+12,"('water', 'gas')",42
+13,"('electricity', 'water', 'gas')",40
+14,"('electricity', 'chilledwater', 'water')",38
+15,"('chilledwater', 'water')",38
+16,"('chilledwater', 'numberoffloors')",37
+17,"('electricity', 'chilledwater', 'numberoffloors')",35
+18,"('water', 'numberoffloors')",34
+19,"('electricity', 'hotwater', 'numberoffloors')",34
+20,"('hotwater', 'numberoffloors')",34
+21,"('electricity', 'water', 'numberoffloors')",34
+22,"('water', 'irrigation')",22
+23,"('chilledwater', 'water', 'numberoffloors')",21
+24,"('electricity', 'chilledwater', 'water', 'numberoffloors')",21
+25,"('hotwater', 'chilledwater', 'numberoffloors')",18
+26,"('electricity', 'hotwater', 'chilledwater', 'numberoffloors')",18
+27,"('hotwater', 'steam')",17
+28,"('electricity', 'irrigation')",17
+29,"('hotwater', 'chilledwater', 'steam')",17
+30,"('electricity', 'hotwater', 'steam')",17
+31,"('electricity', 'hotwater', 'chilledwater', 'steam')",17
+32,"('hotwater', 'water', 'numberoffloors')",16
+33,"('hotwater', 'water')",16
+34,"('electricity', 'hotwater', 'water', 'numberoffloors')",16
+35,"('electricity', 'hotwater', 'water')",16
+36,"('electricity', 'hotwater', 'chilledwater', 'water')",15
+37,"('hotwater', 'chilledwater', 'water', 'numberoffloors')",15
+38,"('hotwater', 'chilledwater', 'water')",15
+39,"('electricity', 'hotwater', 'chilledwater', 'water', 'numberoffloors')",15
+40,"('chilledwater', 'steam', 'numberoffloors')",12
+41,"('steam', 'numberoffloors')",12
+42,"('electricity', 'water', 'irrigation')",11
+43,"('water', 'gas', 'numberoffloors')",10
+44,"('electricity', 'water', 'gas', 'numberoffloors')",10
+45,"('electricity', 'chilledwater', 'steam', 'numberoffloors')",10
+46,"('electricity', 'steam', 'numberoffloors')",10
+47,"('chilledwater', 'gas')",9
+48,"('electricity', 'chilledwater', 'gas')",9
+49,"('electricity', 'chilledwater', 'water', 'gas')",8
+50,"('chilledwater', 'water', 'gas')",8
+51,"('electricity', 'water', 'solar')",5
+52,"('electricity', 'solar')",5
+53,"('water', 'solar')",5
+54,"('electricity', 'solar', 'numberoffloors')",5
+55,"('electricity', 'water', 'solar', 'numberoffloors')",5
+56,"('solar', 'numberoffloors')",5
+57,"('water', 'solar', 'numberoffloors')",5
+58,"('chilledwater', 'gas', 'numberoffloors')",3
+59,"('chilledwater', 'water', 'gas', 'numberoffloors')",3
+60,"('irrigation', 'gas')",3
+61,"('chilledwater', 'irrigation')",3
+62,"('electricity', 'chilledwater', 'water', 'gas', 'numberoffloors')",3
+63,"('electricity', 'chilledwater', 'irrigation')",3
+64,"('electricity', 'chilledwater', 'gas', 'numberoffloors')",3
+65,"('hotwater', 'solar')",2
+66,"('hotwater', 'gas')",2
+67,"('water', 'solar', 'gas')",2
+68,"('hotwater', 'solar', 'numberoffloors')",2
+69,"('hotwater', 'gas', 'numberoffloors')",2
+70,"('solar', 'gas', 'numberoffloors')",2
+71,"('electricity', 'chilledwater', 'solar')",2
+72,"('electricity', 'hotwater', 'gas')",2
+73,"('solar', 'gas')",2
+74,"('chilledwater', 'solar')",2
+75,"('electricity', 'hotwater', 'solar')",2
+76,"('hotwater', 'water', 'gas')",2
+77,"('hotwater', 'chilledwater', 'solar')",2
+78,"('electricity', 'chilledwater', 'water', 'solar', 'numberoffloors')",2
+79,"('electricity', 'hotwater', 'water', 'solar', 'numberoffloors')",2
+80,"('electricity', 'hotwater', 'water', 'gas', 'numberoffloors')",2
+81,"('electricity', 'hotwater', 'chilledwater', 'water', 'gas', 'numberoffloors')",2
+82,"('chilledwater', 'water', 'irrigation')",2
+83,"('chilledwater', 'solar', 'numberoffloors')",2
+84,"('electricity', 'hotwater', 'chilledwater', 'gas')",2
+85,"('electricity', 'hotwater', 'chilledwater', 'solar')",2
+86,"('chilledwater', 'water', 'solar')",2
+87,"('hotwater', 'chilledwater', 'gas')",2
+88,"('electricity', 'solar', 'gas')",2
+89,"('hotwater', 'water', 'solar')",2
+90,"('electricity', 'chilledwater', 'solar', 'numberoffloors')",2
+91,"('electricity', 'chilledwater', 'water', 'irrigation')",2
+92,"('electricity', 'hotwater', 'solar', 'numberoffloors')",2
+93,"('electricity', 'chilledwater', 'water', 'solar')",2
+94,"('chilledwater', 'water', 'solar', 'numberoffloors')",2
+95,"('hotwater', 'chilledwater', 'gas', 'numberoffloors')",2
+96,"('hotwater', 'water', 'solar', 'numberoffloors')",2
+97,"('electricity', 'water', 'solar', 'gas')",2
+98,"('electricity', 'solar', 'gas', 'numberoffloors')",2
+99,"('hotwater', 'chilledwater', 'water', 'solar')",2
+100,"('hotwater', 'chilledwater', 'water', 'gas')",2
+101,"('hotwater', 'chilledwater', 'solar', 'numberoffloors')",2
+102,"('hotwater', 'water', 'gas', 'numberoffloors')",2
+103,"('electricity', 'hotwater', 'chilledwater', 'gas', 'numberoffloors')",2
+104,"('electricity', 'hotwater', 'chilledwater', 'water', 'gas')",2
+105,"('electricity', 'hotwater', 'chilledwater', 'solar', 'numberoffloors')",2
+106,"('electricity', 'hotwater', 'chilledwater', 'water', 'solar')",2
+107,"('electricity', 'hotwater', 'gas', 'numberoffloors')",2
+108,"('electricity', 'hotwater', 'water', 'gas')",2
+109,"('electricity', 'hotwater', 'water', 'solar')",2
+110,"('electricity', 'water', 'solar', 'gas', 'numberoffloors')",2
+111,"('hotwater', 'chilledwater', 'water', 'gas', 'numberoffloors')",2
+112,"('hotwater', 'chilledwater', 'water', 'solar', 'numberoffloors')",2
+113,"('water', 'solar', 'gas', 'numberoffloors')",2
+114,"('electricity', 'hotwater', 'chilledwater', 'water', 'solar', 'numberoffloors')",2
+115,"('water', 'irrigation', 'gas')",1
+116,"('electricity', 'irrigation', 'gas')",1
+117,"('hotwater', 'solar', 'gas')",1
+118,"('chilledwater', 'solar', 'gas')",1
+119,"('chilledwater', 'water', 'solar', 'gas')",1
+120,"('hotwater', 'water', 'solar', 'gas')",1
+121,"('hotwater', 'solar', 'gas', 'numberoffloors')",1
+122,"('electricity', 'chilledwater', 'solar', 'gas')",1
+123,"('electricity', 'hotwater', 'solar', 'gas')",1
+124,"('electricity', 'water', 'irrigation', 'gas')",1
+125,"('hotwater', 'chilledwater', 'solar', 'gas')",1
+126,"('electricity', 'hotwater', 'solar', 'gas', 'numberoffloors')",1
+127,"('electricity', 'chilledwater', 'water', 'solar', 'gas')",1
+128,"('electricity', 'hotwater', 'water', 'solar', 'gas')",1
+129,"('electricity', 'hotwater', 'chilledwater', 'solar', 'gas')",1
+130,"('chilledwater', 'solar', 'gas', 'numberoffloors')",1
+131,"('hotwater', 'chilledwater', 'solar', 'gas', 'numberoffloors')",1
+132,"('hotwater', 'chilledwater', 'water', 'solar', 'gas')",1
+133,"('electricity', 'chilledwater', 'solar', 'gas', 'numberoffloors')",1
+134,"('chilledwater', 'water', 'solar', 'gas', 'numberoffloors')",1
+135,"('hotwater', 'water', 'solar', 'gas', 'numberoffloors')",1
+136,"('electricity', 'hotwater', 'chilledwater', 'water', 'solar', 'gas')",1
+137,"('electricity', 'hotwater', 'chilledwater', 'solar', 'gas', 'numberoffloors')",1
+138,"('electricity', 'hotwater', 'water', 'solar', 'gas', 'numberoffloors')",1
+139,"('electricity', 'chilledwater', 'water', 'solar', 'gas', 'numberoffloors')",1
+140,"('hotwater', 'chilledwater', 'water', 'solar', 'gas', 'numberoffloors')",1
+141,"('electricity', 'hotwater', 'chilledwater', 'water', 'solar', 'gas', 'numberoffloors')",1
