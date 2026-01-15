@@ -72,8 +72,8 @@ if __name__ == "__main__":
         'gas': 0.0,
 
         'time': '2017-08-31T06:00:00',  
-        'building_code': 'Fox_education_Wendell', 
-        'site_id': 'Fox', 
+        'building_code': 'ggg', 
+        'site_id': 'ff', 
         'sqm': 20402.2, 
         'sqft': 219608, 
         'primaryspaceusage': 'Education', 
